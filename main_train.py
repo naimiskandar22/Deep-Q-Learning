@@ -5,7 +5,7 @@ current_working_directory = os.getcwd()
 print(f"The current working directory is: {current_working_directory}")
 
 # Change the working directory to a new directory (replace with the path you want)
-new_working_directory = "C:/(...)/Lec2_ Deep Q-Learning/src/"
+new_working_directory = "C:/Users/naimi/Documents/BHT_Masters_DataScience/Semester_1/Advanced_Software_Engineering/Lec2_Deep Q-Learning/0_Exercise_env"
 os.chdir(new_working_directory)
 
 # Get and print the new current working directory
